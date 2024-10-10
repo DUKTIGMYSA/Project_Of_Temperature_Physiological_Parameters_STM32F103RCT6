@@ -1,0 +1,2 @@
+# Project_Of_Temperature_Physiological_Parameters_STM32F103RCT6
+本次项目基于搭载STM32F103RCT6芯片的开发板进行设计，使用YSI型探头热敏电阻传感器，通过通道选择电路切换体温通道，利用同相比例放大电路放大体温信号并通过体温算法计算出探头阻值与探头温度
